@@ -1,0 +1,22 @@
+{
+  "name": "spring-pageable-pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbyoungju/spring-pageable-pagination.git"
+  },
+  "author": "Byoungju Park",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.1",
+    "typescript": "^4.6.2"
+  }
+}
